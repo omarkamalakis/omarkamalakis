@@ -1,4 +1,7 @@
+<img src="computer-line-art.svg" width="500px" align="right">
+
 # My name is Gabe Kamalakis,
+
 
 I am a software engineer who likes to dabble in a lot of different things, but I'm primarily:
 - an aspiring DevOps engineer
