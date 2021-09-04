@@ -25,7 +25,7 @@ I am a software engineer who likes to dabble in a lot of different things, but I
 
 I'm not just on Github, also check out my gitlab over here: [El-Albatross](https://gitlab.com/El-Albatross)
 
-You can also check out my [LinkedIn](https://linkedin.com/in/gabe-kamalakis-849482a9)
+You can also check out my [LinkedIn](https://linkedin.com/in/gabe-kamalakis)
 
 <!---
 omarkamalakis/omarkamalakis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
