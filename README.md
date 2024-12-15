@@ -6,7 +6,6 @@
 I am a software engineer who likes to dabble in a lot of different things, but I'm primarily:
 - an aspiring DevOps engineer
 - a full-stack web-developer
-- a 3D Artist (with Blender and MagicaVoxel)
 - Amateur woodworker
 - Note-taking enthusiast
 - Neovim Enjoyer
@@ -18,9 +17,9 @@ I am a software engineer who likes to dabble in a lot of different things, but I
 
 ## Languages and Frameworks I like to use:
 - Rust
-- Python
-- Vue.js
-- Warp
+- Kotlin
+- Solid.js
+- Dioxus
 - C
 
 I'm not just on Github, also check out my gitlab over here: [El-Albatross](https://gitlab.com/El-Albatross)
